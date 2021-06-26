@@ -1,0 +1,11 @@
+version: '2.3'
+
+services:
+    dev:
+        image: jekyll/minimal:4.2.0
+        init: true
+        volumes:
+            - ./:/srv/jekyll
+        ports:
+            - 4000:4000
+        command: ['jekyll', 'serve', '--host', '0.0.0.0']
