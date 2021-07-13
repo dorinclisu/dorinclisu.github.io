@@ -2,7 +2,7 @@
 layout: post
 title:  "Karma Physics"
 #date:   2021-07-13
-categories: religion, spirituality, physics
+categories: [religion, physics]
 ---
 Karma has been likened to the laws of physics, particularly to Newton's 3rd law of motion: for every action there is an equal and opposite reaction.
 I prefer the comparison with the law of energy conservation, where Karma is a conservation of *spiritual* energy. \
