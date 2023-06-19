@@ -13,7 +13,7 @@ After all - looking at the material world - there is a big difference between kn
 And there is another fairly big difference between solving physics problems and solving the engineering problems that ultimately impact people's lives.
 Each requires the former, but it also requires taking into consideration other rules and some specific constraints. \
 \
-Let's consider the typical flow when applying this law for a physics problem. The first (and probably the most difficult) step is figuring out the bounds of the system.
+Let's consider the typical flow when applying this conservation law for a physics problem. The first (and probably the most difficult) step is figuring out the bounds of the system.
 Without the bounds, we cannot write the equation. It's of no use that the energy is conserved in the whole universe because it's too general.
 We need to be particular to the little system we're interested in, but not too particular that we're overlooking a significant energy leakage to the exterior.
 If the leakage is too high, we need to extend the bounds of the system and consider additional variables before we apply the law.
